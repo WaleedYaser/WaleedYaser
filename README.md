@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Waleed Yaser, a C++ software engineer from Egypt. I'm interested in graphics programming and the comination of art with technology.
+I'm Waleed Yaser, a C++ software engineer from Egypt. I'm interested in graphics programming and the comination of art with technology.
 
 - 🔭 I'm currently working on [rex](https://github.com/WaleedYaser/rex).
 
